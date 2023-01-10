@@ -32,3 +32,5 @@ python main.py
 ## Author
 [Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
 
+# Feedback by Dinesh Deogade: Amazing and Wonderful work by Aqeel Anwar by creating this tic tac toe game
+
